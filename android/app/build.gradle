@@ -1,0 +1,10 @@
+
+android {
+    defaultConfig {
+        applicationId "com.example.ilaydaumit"
+        minSdkVersion 21
+        targetSdkVersion 33
+        versionCode flutterVersionCode.toInteger()
+        versionName flutterVersionName
+    }
+}
